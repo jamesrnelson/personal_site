@@ -1,3 +1,16 @@
 body {
   background-color: blue;
 }
+
+h1 {
+  color: orange;
+  text-shadow: 2px 2px white;
+}
+
+p {
+  color: white;
+}
+
+a {
+  color: black;
+}
